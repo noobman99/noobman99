@@ -5,6 +5,7 @@ hope we all keep replying with General Kenobi to that ;)
 - 🖥 I love scripting, automation, web development
 - 📖 Being an avid learner, I am currently trying to learn more about backend programming using MERN
 - 🤝 I like open source and am happy to collaborate on such projects :)
+- 💻 View my portfolio website [here](https://noobman99.github.io).
 
 ### Languages and Tools
 <div align="left">
