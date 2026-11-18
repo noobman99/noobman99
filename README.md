@@ -1,7 +1,7 @@
 # Hello there!
 hope we all keep replying with General Kenobi to that ;)
 
-- 💁‍♂️ I am Parth, a fourth year at IIT Kharagpur
+- 💁‍♂️ I am Parth, a final year at IIT Kharagpur
 - 🖥 I love scripting, automation, web development
 - 📖 Being an avid learner, I am currently trying to learn more about backend programming using MERN
 - 🤝 I like open source and am happy to collaborate on such projects :)
